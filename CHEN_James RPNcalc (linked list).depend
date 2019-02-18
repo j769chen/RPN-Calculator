@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1523928155 source:c:\ics4u\chen_james rpncalc (linked list)\button.cpp
+	"button.h"
+	<iostream>
+
+1523928155 c:\ics4u\chen_james rpncalc (linked list)\button.h
+	<iostream>
+	<apstring.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+
+1523934195 source:c:\ics4u\chen_james rpncalc (linked list)\main.cpp
+	<iostream>
+	<apstring.h>
+	<apstring.cpp>
+	<cstdio>
+	"linkedlist.h"
+	"RPNcalc.h"
+	"button.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+
+1523932042 c:\ics4u\chen_james rpncalc (linked list)\stack.h
+	<iostream>
+	<apstring.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+
+1523934208 c:\ics4u\chen_james rpncalc (linked list)\rpncalc.h
+	"linkedlist.h"
+	<cmath>
+	<math.h>
+
+1523934273 source:c:\ics4u\chen_james rpncalc (linked list)\rpncalc.cpp
+	<iostream>
+	"RPNcalc.h"
+	<cmath>
+	<math.h>
+
+1523934145 source:c:\ics4u\chen_james rpncalc (linked list)\stack.cpp
+	"stack.h"
+	<iostream>
+	<cmath>
+
+1523934374 source:c:\ics4u\chen_james rpncalc (linked list)\linkedlist.cpp
+	<iostream>
+	"linkedlist.h"
+	<cmath>
+	<stdlib.h>
+
+1523934165 c:\ics4u\chen_james rpncalc (linked list)\linkedlist.h
+	<iostream>
+
